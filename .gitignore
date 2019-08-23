@@ -1,0 +1,12 @@
+
+Classification/\.ipynb_checkpoints/
+
+*.tif
+
+Classification/data/UCMerced_LandUse/
+
+Classification/data/cifar-10-batches-py/
+
+Classification/data/
+
+Classification/model_cifar\.pt
